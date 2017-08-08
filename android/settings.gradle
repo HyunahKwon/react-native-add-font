@@ -1,0 +1,3 @@
+rootProject.name = 'FontTest'
+
+include ':app'
