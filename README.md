@@ -14,4 +14,4 @@ adding font
   
   add in package.json
   
- 
+ 5. react-native link
