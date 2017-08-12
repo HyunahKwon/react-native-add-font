@@ -1,4 +1,6 @@
 # react-native-add-font
+
+![demo](fonts.png)
 adding font
 
 1. npm install rnpm
